@@ -1,3 +1,4 @@
+[![Pull Request Labeler](https://github.com/cloudflare/workers-sdk/actions/workflows/pr-labeler.yml/badge.svg)](https://github.com/cloudflare/workers-sdk/actions/workflows/pr-labeler.yml)
 name: "Pull Request Labeler"
 on:
   - pull_request_target
