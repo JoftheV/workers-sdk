@@ -60,7 +60,7 @@
 		"capnp-ts": "^0.7.0",
 		"capnpc-ts": "^0.7.0",
 		"ts-dedent": "^2.2.0",
-		"undici": "5.29.0"
+		"undici": "6.24.0"
 	},
 	"dependencies": {
 		"birpc": "0.2.14",
