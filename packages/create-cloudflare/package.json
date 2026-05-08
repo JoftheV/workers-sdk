@@ -75,7 +75,7 @@
 		"open": "^8.4.0",
 		"recast": "^0.22.0",
 		"semver": "^7.6.0",
-		"undici": "5.29.0",
+		"undici": "6.24.0",
 		"vite-tsconfig-paths": "^4.0.8",
 		"which-pm-runs": "^1.1.0",
 		"wrangler": "workspace:*",
